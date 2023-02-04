@@ -10,8 +10,6 @@
 
 ## 💻Languages and Tools
 
-<br/>
-
 ![Python](https://img.shields.io/badge/-Python-030303?style=for-the-badge&logo=python&logoColor=#3776AB)
 ![Django](https://img.shields.io/badge/-Django-030303?style=for-the-badge&logo=Django&logoColor=006400)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSql-030303?style=for-the-badge&logo=PostgreSql&logoColor=0064A5)
@@ -22,12 +20,9 @@
 ![HTML5](https://img.shields.io/badge/-HTML-030303?style=for-the-badge&logo=HTML5&logoColor=#E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS-030303?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 
-
 ---
 
 ## 📱Contact with me
-
-<br/>
 
 [![Telegram](https://img.shields.io/badge/-Telegram-030303?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/ruslan_py)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-030303?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/ruslanmuzyra/)
