@@ -2,7 +2,7 @@
 
 - 👨‍💻 I’m currently learning JS, Python, Django, OpenCV.
 - 📚 I’m interested in Web Development and Machine learning.
-- ⚡ In my spare time I'm practicing machine learningand computer vision
+- ⚡ In my spare time I'm practicing machine learningand and computer vision
 - 📫 How to reach me: 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-030303?style=flat&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/ruslanmuzyra/)
 
