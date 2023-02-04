@@ -6,7 +6,6 @@
 - 📫 How to reach me: 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-030303?style=flat&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/ruslanmuzyra/)
 
-<br/> 
 
 ## 💻Languages and Tools
 
