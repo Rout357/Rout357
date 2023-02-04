@@ -23,6 +23,11 @@
 
 <br/>
 
+## 🔥My Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rout357&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 ## 📱Contact with me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-030303?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/ruslan_py)
