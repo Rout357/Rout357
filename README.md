@@ -25,8 +25,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Rout357&theme=dark&hide_border=true&mode=daily)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rout357&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📱Contact with me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-030303?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/ruslan_py)
