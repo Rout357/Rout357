@@ -1,6 +1,6 @@
 ## Hi, I'm Rout357
 
-- 👨‍💻 I’m currently learning JS, Python, Django, OpenCV.
+- 👨‍💻 I’m currently learning Python, Django, OpenCV.
 - 📚 I’m interested in Web Development and Machine learning.
 - ⚡ In my spare time I'm practicing machine learningand computer vision
 - 📫 How to reach me: 
